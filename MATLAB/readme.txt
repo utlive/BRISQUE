@@ -1,4 +1,4 @@
-RISQUEE Software release.
+BRISQUE Software release.
 
 
 ========================================================================
